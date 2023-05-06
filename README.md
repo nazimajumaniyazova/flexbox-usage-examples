@@ -1,4 +1,8 @@
-# flexbox-template-layout-example
+# flexbox-usage-examples
+  
+  
+Only flexbox used to get responsiveness. No media quesries. 
+Responsive flexbox without using media queries.
 Here you can find different responsive design templates made with flexobox
 here you can check it out: https://nazimajumaniyazova.github.io/flexbox-template-layout-example/
 
